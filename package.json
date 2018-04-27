@@ -1,0 +1,23 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioaren/probandoAWS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioaren/probandoAWS/issues"
+  },
+  "homepage": "https://github.com/antonioaren/probandoAWS#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node": "^10.0.0"
+  }
+}
